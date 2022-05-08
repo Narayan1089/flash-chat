@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298774805527",
+    "project_id": "flash-chat-e9197",
+    "storage_bucket": "flash-chat-e9197.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298774805527:android:5ae44b37489908ab7d3052",
+        "android_client_info": {
+          "package_name": "co.zelonz.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298774805527-gip1l7g1r70fhgjcer9378nv4st12vve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApCygMxyfSc8XHEb_796Y7MlzUSnRbuig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298774805527-gip1l7g1r70fhgjcer9378nv4st12vve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
